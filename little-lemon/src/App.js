@@ -1,16 +1,17 @@
+import Header from "./Header";
+import Nav from "./Nav";
+import Main from "./Main";
+import Footer from "./Footer";
+import { Routes, Route} from "react-router-dom";
 
-import './App.css';
 function App() {
   return (
-    <div className="App">
-      <h1>
-      Little Lemon   
-      </h1>
-      <p>
-        Website in progress!
-      </p>
-    </div>
-  );
+
+      <><Header />
+      <Nav />
+      <Main />
+      <Footer /></>
+    );
 }
 
 export default App;
