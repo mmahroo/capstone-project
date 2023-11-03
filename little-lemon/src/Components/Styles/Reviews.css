@@ -1,0 +1,41 @@
+
+.reviewsContainer {
+  display: flex;
+  margin-right: 10px;
+  width: 200px;
+  height: 300px;
+  border-radius:8px;
+  box-shadow: 0.5px 0.5px 0.5px 0.5px rgba(0, 0, 0, 0.1);
+  background-color: #EDEFEE;
+}
+
+
+.avatar {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+
+}
+
+.pictures {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 10px;
+
+}
+
+h4 {
+  font-family: 'karla';
+  font-weight: bold;
+}
+
+p {
+  font-size: 'karla';
+  font-size: small;
+  text-align: center;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+

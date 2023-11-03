@@ -1,0 +1,76 @@
+.cardContainer{
+    background-color: #EDEFEE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    width: 280px;
+    height: 435px;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px rgba(0, 0, 0, 0.1);
+}
+
+
+.cardContainer img{
+  width: 280px;
+  height: 180px;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .cardContainer {
+      width: 250px;
+      height: auto;
+      gap:2rem;
+    }
+
+    article > img{
+      width: 250px;
+      height: auto;
+    }
+  }
+
+
+.title h3{
+    font-size: 24px;
+    font-family: 'Markazi Text';
+    font-weight: 500px;
+  }
+
+
+.title{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 40px;
+  color: black;
+}
+
+.order{
+  display: flex;
+  align-items: center;
+  gap:15px;
+  padding-bottom: 40px;
+  padding-top: 1rem;
+  width: 100%;
+}
+
+.cardContainer  h3{
+  padding: 0.5rem;
+}
+
+.cardContainer h6 {
+  font-size: 14px;
+  font-family: 'Markazi Text';
+  margin-left: 5px;
+
+ }
+
+.cardContainer p {
+ font-size: 15px;
+ text-align: start;
+}
+.cardContainer:hover{
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}

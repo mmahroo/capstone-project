@@ -1,0 +1,47 @@
+.aboutContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width:100%;
+    min-width: 400px;
+    gap:5rem;
+    padding-bottom:4rem;
+    padding-top:4rem;
+}
+.aboutContainer p {
+    width: 370px;
+    height: minmax(200, 322);
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 25px;
+    text-align: left;
+    }
+
+#heading {
+    color: black;
+    font-family: Markazi Text;
+    font-size: 40px;
+    font-weight: bold;
+  }
+
+  .aboutContainer h3{
+    color: #333333;
+    font-family: Markazi Text;
+    font-size: 25px;
+    font-weight: 400px;
+  }
+
+#imageAB{
+  margin-top: 30px;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+    #imgageAB{
+      width: 200px;
+      height: 250px;
+    }
+  }
+

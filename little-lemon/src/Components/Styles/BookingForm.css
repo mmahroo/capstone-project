@@ -1,0 +1,60 @@
+
+.main{
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+
+.container{
+ 
+  display: flex;
+  justify-content: center;
+  font-size: 16px;
+}
+
+@media only screen and (max-width: 600px) {
+  .container {
+    width: 250px;
+    height: auto;
+  }
+}
+
+.formContainer {
+  background-color: #EDEFEE;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  width: 400px;
+  height: 50px;
+}
+
+
+
+#form-heading {
+  text-align: center;
+  padding-bottom: 20px;
+  font-family: "Markazi Text";
+  font-weight: "medium";
+  font-size: 40px;
+}
+
+#primaryButton{
+  padding: 8px;
+  background-color: #F4CE14;
+  font-weight: bold;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  margin-top: 28px;
+}
+
+#primaryButton:hover{
+  background-color: #EE9972;
+}
+
+
+input[type=number]::-webkit-inner-spin-button {
+  opacity: 1
+}
+
+
+

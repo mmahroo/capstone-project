@@ -1,0 +1,36 @@
+.container1 {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .container1{
+      width: 400px;
+      height: 300px;
+    }
+  }
+
+.containerConfirmation{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+#headingConfirmation{
+    text-align: center;
+    font-family: "Markazi";
+    font-size: 40px;
+}
+
+@media only screen and (max-width: 600px) {
+
+    #headingConfirmation{
+      font-size: 30px;
+    }
+  }
