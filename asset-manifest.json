@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/capstone-project/little-lemon/static/css/main.026c9121.css",
-    "main.js": "/capstone-project/little-lemon/static/js/main.da0db32d.js",
-    "static/js/787.a2f6b77c.chunk.js": "/capstone-project/little-lemon/static/js/787.a2f6b77c.chunk.js",
-    "static/media/greek-salad.jpg": "/capstone-project/little-lemon/static/media/greek-salad.bed423a1fab5b210e347.jpg",
-    "static/media/bannerPicture.jpg": "/capstone-project/little-lemon/static/media/bannerPicture.e8abf5b772b6817189aa.jpg",
-    "static/media/Paul-Hans.jpg": "/capstone-project/little-lemon/static/media/Paul-Hans.5b3575b6b164ddd6cc60.jpg",
-    "static/media/Elisabeth-Thomas.jpg": "/capstone-project/little-lemon/static/media/Elisabeth-Thomas.1cd03b2f735e29234eba.jpg",
-    "static/media/Emma-Frank.jpg": "/capstone-project/little-lemon/static/media/Emma-Frank.7d1c2a98ce73b0b13898.jpg",
-    "static/media/Saad-Imran.jpg": "/capstone-project/little-lemon/static/media/Saad-Imran.d97e1b20ac366e054880.jpg",
-    "static/media/bruchetta.jpg": "/capstone-project/little-lemon/static/media/bruchetta.16d6ccbad3536c2d7979.jpg",
-    "static/media/AB.png": "/capstone-project/little-lemon/static/media/AB.ee863ab53b624f55c677.png",
-    "static/media/fotterlogo.png": "/capstone-project/little-lemon/static/media/fotterlogo.d09eb2af6c5a2225eedf.png",
-    "static/media/logo.jpg": "/capstone-project/little-lemon/static/media/logo.fb87e94d655abf1fef81.jpg",
-    "index.html": "/capstone-project/little-lemon/index.html",
-    "main.026c9121.css.map": "/capstone-project/little-lemon/static/css/main.026c9121.css.map",
-    "main.da0db32d.js.map": "/capstone-project/little-lemon/static/js/main.da0db32d.js.map",
-    "787.a2f6b77c.chunk.js.map": "/capstone-project/little-lemon/static/js/787.a2f6b77c.chunk.js.map"
+    "main.css": "/react-gh-pages/static/css/main.026c9121.css",
+    "main.js": "/react-gh-pages/static/js/main.1e464f57.js",
+    "static/js/787.a2f6b77c.chunk.js": "/react-gh-pages/static/js/787.a2f6b77c.chunk.js",
+    "static/media/greek-salad.jpg": "/react-gh-pages/static/media/greek-salad.bed423a1fab5b210e347.jpg",
+    "static/media/bannerPicture.jpg": "/react-gh-pages/static/media/bannerPicture.e8abf5b772b6817189aa.jpg",
+    "static/media/Paul-Hans.jpg": "/react-gh-pages/static/media/Paul-Hans.5b3575b6b164ddd6cc60.jpg",
+    "static/media/Elisabeth-Thomas.jpg": "/react-gh-pages/static/media/Elisabeth-Thomas.1cd03b2f735e29234eba.jpg",
+    "static/media/Emma-Frank.jpg": "/react-gh-pages/static/media/Emma-Frank.7d1c2a98ce73b0b13898.jpg",
+    "static/media/Saad-Imran.jpg": "/react-gh-pages/static/media/Saad-Imran.d97e1b20ac366e054880.jpg",
+    "static/media/bruchetta.jpg": "/react-gh-pages/static/media/bruchetta.16d6ccbad3536c2d7979.jpg",
+    "static/media/AB.png": "/react-gh-pages/static/media/AB.ee863ab53b624f55c677.png",
+    "static/media/fotterlogo.png": "/react-gh-pages/static/media/fotterlogo.d09eb2af6c5a2225eedf.png",
+    "static/media/logo.jpg": "/react-gh-pages/static/media/logo.fb87e94d655abf1fef81.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.026c9121.css.map": "/react-gh-pages/static/css/main.026c9121.css.map",
+    "main.1e464f57.js.map": "/react-gh-pages/static/js/main.1e464f57.js.map",
+    "787.a2f6b77c.chunk.js.map": "/react-gh-pages/static/js/787.a2f6b77c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.026c9121.css",
-    "static/js/main.da0db32d.js"
+    "static/js/main.1e464f57.js"
   ]
 }
