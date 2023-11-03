@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/capstone-project/static/css/main.026c9121.css",
+    "main.js": "/capstone-project/static/js/main.521df3dd.js",
+    "static/js/787.a2f6b77c.chunk.js": "/capstone-project/static/js/787.a2f6b77c.chunk.js",
+    "static/media/greek-salad.jpg": "/capstone-project/static/media/greek-salad.bed423a1fab5b210e347.jpg",
+    "static/media/bannerPicture.jpg": "/capstone-project/static/media/bannerPicture.e8abf5b772b6817189aa.jpg",
+    "static/media/Paul-Hans.jpg": "/capstone-project/static/media/Paul-Hans.5b3575b6b164ddd6cc60.jpg",
+    "static/media/Elisabeth-Thomas.jpg": "/capstone-project/static/media/Elisabeth-Thomas.1cd03b2f735e29234eba.jpg",
+    "static/media/Emma-Frank.jpg": "/capstone-project/static/media/Emma-Frank.7d1c2a98ce73b0b13898.jpg",
+    "static/media/Saad-Imran.jpg": "/capstone-project/static/media/Saad-Imran.d97e1b20ac366e054880.jpg",
+    "static/media/bruchetta.jpg": "/capstone-project/static/media/bruchetta.16d6ccbad3536c2d7979.jpg",
+    "static/media/AB.png": "/capstone-project/static/media/AB.ee863ab53b624f55c677.png",
+    "static/media/fotterlogo.png": "/capstone-project/static/media/fotterlogo.d09eb2af6c5a2225eedf.png",
+    "static/media/logo.jpg": "/capstone-project/static/media/logo.fb87e94d655abf1fef81.jpg",
+    "index.html": "/capstone-project/index.html",
+    "main.026c9121.css.map": "/capstone-project/static/css/main.026c9121.css.map",
+    "main.521df3dd.js.map": "/capstone-project/static/js/main.521df3dd.js.map",
+    "787.a2f6b77c.chunk.js.map": "/capstone-project/static/js/787.a2f6b77c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.026c9121.css",
+    "static/js/main.521df3dd.js"
+  ]
+}
